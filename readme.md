@@ -1,52 +1,24 @@
-kioskhelper´°¿Ú»á»°¹ÜÀíÆ÷
+kioskhelperçª—å£ä¼šè¯ç®¡ç†å™¨
 
 
-preview.docx ÔËĞĞĞ§¹ûÍ¼
-kioskhelper.exe v1±àÒëºÃµÄ
-kioskhelper_V2.exe v2±àÒëºÃµÄ
-cmdow.exe ¹Ø±Õ´°¿Úµ÷ÓÃµÄ¹¤¾ß
-serverconfig.txt ·şÎñÆ÷µÇÂ¼½çÃæµØÖ·ÉèÖÃ£¬±àÒëÇ°ÒªÉèÖÃºÃ·şÎñÆ÷µØÖ·¡£
-introweb ·şÎñÆ÷ÍøÒ³Ñù±¾
-finishpage.html V2°æ±¾µ÷ÓÃkioskhelper¹Ø±ÕÆ÷ÍøÒ³ÑùÀı
-kioskhelper.smm smart install maker V1°æ¹¤³ÌÎÄ¼ş
-kioskhelper_V2.smm smart install maker V2°æ¹¤³ÌÎÄ¼ş
-resources µ÷ÓÃkioskhelper¹Ø±ÕÆ÷µÄ×¢²á±íÏî
+preview.docx è¿è¡Œæ•ˆæœå›¾ /Preview image
+kioskhelper.exe v1ç¼–è¯‘å¥½çš„ /compailed automatic install file, test only, V1
+kioskhelper_V2.exe v2ç¼–è¯‘å¥½çš„ /compailed, V2
+cmdow.exe å…³é—­çª—å£è°ƒç”¨çš„å·¥å…· /tool to close all window
+serverconfig.txt æœåŠ¡å™¨ç™»å½•ç•Œé¢åœ°å€è®¾ç½®ï¼Œç¼–è¯‘å‰è¦è®¾ç½®å¥½æœåŠ¡å™¨åœ°å€ã€‚/set this file before compile. server address
+introweb æœåŠ¡å™¨ç½‘é¡µæ ·æœ¬ /sample intro web
+finishpage.html V2ç‰ˆæœ¬è°ƒç”¨kioskhelperå…³é—­å™¨ç½‘é¡µæ ·ä¾‹ /v2 finish page
+kioskhelper.smm smart install maker V1ç‰ˆå·¥ç¨‹æ–‡ä»¶ /v1 smm file
+kioskhelper_V2.smm smart install maker V2ç‰ˆå·¥ç¨‹æ–‡ä»¶ /v2 smm file
+resources è°ƒç”¨kioskhelperå…³é—­å™¨çš„æ³¨å†Œè¡¨é¡¹
 
-ËµÃ÷£ºµÚÒ»¸ö°æ±¾£¬Ö»ÊÇ¹Ø±ÕËùÓĞ´°¿ÚºÍexplorer£¬È«ÆÁ´ò¿ªä¯ÀÀÆ÷¡£¹Ø±Õ³ÌĞòÒªÓÃjs´úÂë¹Ø±Õ´°¿Ú¡£ µÚ¶ş¸ö°æ±¾Ïà±ÈµÚÒ»¸ö°æ±¾£¬¼ÓÈëÁËä¯ÀÀÆ÷ÊØ»¤¹¦ÄÜ£¬ä¯ÀÀÆ÷±»·Ç·¨¹Ø±Õºó»á×Ô¶¯ÖØĞÂ´ò¿ªä¯ÀÀÆ÷¡£Òò´Ë¹Ø±ÕĞèÒªµ÷ÓÃ¹Ø±Õ³ÌĞòÉ±µôÊØ»¤¡£
-ÓÉÓÚsimµÄ¼æÈİĞÔ£¬Ê¹ÓÃsim´´½¨µÄ³ÌĞò´ò¿ªexplorerÊ±ÎŞ·¨ÏÔÊ¾ÈÎÎñÀ¸¡£Òò´ËËùÓĞ½áÊøºóÖ´ĞĞµÄ¶¯×÷¶¼ÉèÖÃ³ÉÁË×¢Ïú¡£
+è¯´æ˜ï¼šç¬¬ä¸€ä¸ªç‰ˆæœ¬ï¼Œåªæ˜¯å…³é—­æ‰€æœ‰çª—å£å’Œexplorerï¼Œå…¨å±æ‰“å¼€æµè§ˆå™¨ã€‚å…³é—­ç¨‹åºè¦ç”¨jsä»£ç å…³é—­çª—å£ã€‚ ç¬¬äºŒä¸ªç‰ˆæœ¬ç›¸æ¯”ç¬¬ä¸€ä¸ªç‰ˆæœ¬ï¼ŒåŠ å…¥äº†æµè§ˆå™¨å®ˆæŠ¤åŠŸèƒ½ï¼Œæµè§ˆå™¨è¢«éæ³•å…³é—­åä¼šè‡ªåŠ¨é‡æ–°æ‰“å¼€æµè§ˆå™¨ã€‚å› æ­¤å…³é—­éœ€è¦è°ƒç”¨å…³é—­ç¨‹åºæ€æ‰å®ˆæŠ¤ã€‚
+ç”±äºsimçš„å…¼å®¹æ€§ï¼Œä½¿ç”¨simåˆ›å»ºçš„ç¨‹åºæ‰“å¼€exploreræ—¶æ— æ³•æ˜¾ç¤ºä»»åŠ¡æ ã€‚å› æ­¤æ‰€æœ‰ç»“æŸåæ‰§è¡Œçš„åŠ¨ä½œéƒ½è®¾ç½®æˆäº†æ³¨é”€ã€‚
 
-×¢ÒâÊÂÏî£º
-1.Æô¶¯³ÌĞòÇ°Òª±£´æÎÄµµ£¬ÒòÎªcmdow»áÇ¿ÖÆ¹Ø±Õ´°¿Ú¡£
-2.v2°æ±¾ÒªÇóÔËĞĞµÄÓÃ»§ÓĞ×¢²á±íÈ¨ÏŞ¡£Èç¹ûÃ»ÓĞ¿ÉÒÔÊ¹ÓÃV1
-3.ÎÄ¼şÊÍ·ÅÄ¿Â¼Îªd:\kiosktmp£¬ÕâÊÇ¿¼ÂÇ²¿·Ö¼ÆËã»úÃ»ÓĞcÅÌ¶ÁĞ´È¨ÏŞ¡£
-4.Ä¿Â¼ÏÂfinish.exeÎª½áÊø³ÌĞò£¬ÊÇsim°²×°°ü×Ô¶¯Éú³ÉµÄ
+æ³¨æ„äº‹é¡¹ï¼š
+1.å¯åŠ¨ç¨‹åºå‰è¦ä¿å­˜æ–‡æ¡£ï¼Œå› ä¸ºcmdowä¼šå¼ºåˆ¶å…³é—­çª—å£ã€‚
+2.v2ç‰ˆæœ¬è¦æ±‚è¿è¡Œçš„ç”¨æˆ·æœ‰æ³¨å†Œè¡¨æƒé™ã€‚å¦‚æœæ²¡æœ‰å¯ä»¥ä½¿ç”¨V1
+3.æ–‡ä»¶é‡Šæ”¾ç›®å½•ä¸ºd:\kiosktmpï¼Œè¿™æ˜¯è€ƒè™‘éƒ¨åˆ†è®¡ç®—æœºæ²¡æœ‰cç›˜è¯»å†™æƒé™ã€‚
+4.ç›®å½•ä¸‹finish.exeä¸ºç»“æŸç¨‹åºï¼Œæ˜¯simå®‰è£…åŒ…è‡ªåŠ¨ç”Ÿæˆçš„
 
-ÒÔÏÂÊÇv1°æ±¾´úÂëµÄ½âÊÍ
-@echo off
-
-rem -- Nathan Zhou
-rem -- Survey access control for CCSC
-rem -- Version Beta_01
-
-title Kiosk webpage starter Vb.01
-
-
-echo DONOT close this windows!
-echo Nathan needs a GF!
-
-cmdow @ /hid
-for /f %%a in ('cmdow /t') do cmdow %%a /cls //¹Ø±ÕËùÓĞ´°¿Ú
-
-set /p servaddr=<serverconfig.txt
-eoch server address is %servaddr% //¶ÁÈ¡·şÎñÆ÷µØÖ·
-
-taskkill /f /im explorer.exe //É±µôexplorer
-
-
-mshta vbscript:msgbox("Server address: %servaddr%",64,"Kioskhelper welcome")(window.close) //µ¯´°£¬²»ÓÃ¿ÉÒÔÈ¥µô
-
-
-
-start /wait C:\Progra~1\Intern~1\iexplore.exe -k %servaddr% //Æô¶¯IE²¢µÈ´ı
-
-finish.exe //ÔËĞĞ½áÊø³ÌĞò£¬Çå³ıÎÄ¼ş²¢×¢Ïú
+Please use smart install maker to compail..
